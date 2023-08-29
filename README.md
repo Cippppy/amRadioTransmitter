@@ -1,3 +1,6 @@
-# electronics_final_project_2023
-Final electronics project for spring 2023 - AM radio
-Balls
+# AM Radio Transmitter
+This was the final project done for Electronics I by Christian Cipolletta and Thomas Rasa.
+
+## Results
+
+## Future Work
